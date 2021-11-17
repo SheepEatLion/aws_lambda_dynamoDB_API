@@ -1,12 +1,13 @@
 # 💚 에코원정대
 - 제 5회 행정안전부 주관 끝장개발대회(해커톤) 친환경 주제 우수상 🥈
-## 개요
-내 동네에서부터 직접 주최하는 환경 캠페인을 목표로 한 안드로이드 App 개발
+## 📑 개요
+* 내 동네에서부터 직접 주최하는 환경 캠페인을 목표로 한 안드로이드 App 개발
 Python 100% 로 _AWS Lambda, AWS S3, AWS Dynamodb_ 를 활용해 _Serverless_ 형태로 구현하였습니다.
+
 * 다이어그램
 ![image](https://user-images.githubusercontent.com/16449498/125264428-d2db5880-e33e-11eb-9980-c69e242a92b1.png)
 
-## 버전
+##  버전
 * 1.0 람다와 DB 연동
 * 1.1 REST API 설계
 * 1.2 정적 이미지 처리를 위한 S3 연동 및 처리 과정 설계
@@ -22,11 +23,11 @@ Python 100% 로 _AWS Lambda, AWS S3, AWS Dynamodb_ 를 활용해 _Serverless_ �
 ## 기술스택
 Android, Kotlin, AWS S3, AWS Lambda, AWS API Gateway, AWS Dynamodb, REST, Python
 
-## 기타링크
+## 🔗 관련링크
  - [안드로이드 코틀린 깃허브 주소](https://github.com/C0deWave/EcoExpedition.git)
  - [서버리스 구현과정 상세 정리](https://blog.naver.com/gowjr300/222366547161)
 
-## 다섯가지의 자문자답
+## ❔ 다섯가지의 자문자답
 
 ### Q1. 이해관계자들은 누구였고 주요 비즈니스 목표는 무엇이었는가?
  > 해커톤 출품작으로써 "내 동네에서부터 직접 주최하는 환경캠페인"을 아이디어로 하여 모임 개설, 정모 일정, 활동 내역 SNS 등의 핵심 기능을 데모전으로 제작하는 것이 목표였다.
